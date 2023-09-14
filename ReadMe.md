@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Meu Nome é Leonardo Santos tenho 18 anos <br>3º do Ensino Médio<br>Estou Cursando Desenvolvimento de Sistemas no Senai-FSA<br>No Terceiro Semestre<br>👯 Atualmente a procura de Estagio <br>
+ Meu Nome é Leonardo Santos tenho 18 anos <br>3º do Ensino Médio<br>Estou Cursando Desenvolvimento de Sistemas no Senai-FSA<br>No Terceiro Semestre<br> Atualmente a procura de Estagio <br>
 
 
 # 💻 Tech Stack:
